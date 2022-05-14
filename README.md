@@ -9,3 +9,7 @@ Replaces other people's wallets with yours
 Discord Notifications
 
 Hidden work
+
+# Releases
+
+https://github.com/VolVeRFM/Clipper-VolVeR/releases
