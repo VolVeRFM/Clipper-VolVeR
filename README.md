@@ -1,4 +1,4 @@
-# Clipper-VoLVeR BTC/ETH/XMR
+# Clipper-VolVeR BTC/ETH/XMR
 
 ![photo_2022-05-14_18-23-47](https://user-images.githubusercontent.com/52369870/168427920-00a1222e-1f1d-4b8f-89b5-7a4a3c053503.jpg)
 
